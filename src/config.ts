@@ -18,7 +18,7 @@ export const PROJECT = {
   id: "blue-archive-mika",
   slug: "mika",
   title: "Mika",
-  editionLabel: "OFFLINE EDITION · 1.0.0",
+  editionLabel: "PUBLIC EDITION · 1.0.1",
 } as const;
 
 export const VOICE_LOCALES: readonly VoiceLocale[] = ["zh-cn","ja","ko"];
